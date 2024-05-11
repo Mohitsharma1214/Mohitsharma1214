@@ -9,6 +9,6 @@ I'm on a quest to explore the fascinating world of AI & Data Science, driven by 
 - 📊 Beyond coding, I'm well-versed in Data Structures and Algorithms (DSA) and Database Management Systems (DBMS), ensuring robust and scalable solutions.
 - 🎓 Currently pursuing my degree in AI & Data Science, I'm passionate about bridging theory with real-world applications and driving meaningful innovation.
 - 🌟 When I'm not coding or analyzing data, you'll find me exploring new hobbies, reading sci-fi novels, or indulging in thought-provoking discussions about the latest tech trends.
-- 📫 Want to chat, collaborate, or connect? Feel free to reach out via [email](mailto:ptms2525.com) or connect on [LinkedIn](https://www.linkedin.com/in/mohitsharma1214/).
+- 📫 Want to chat, collaborate, or connect? Feel free to reach out via [email](mailto:ptms2525@gmail.com) or connect on [LinkedIn](https://www.linkehttps://www.linkedin.com/in/mohitsharmas78/din.com/in/mohitsharma1214/).
 
 Let's connect and embark on this exciting journey together! 😄✨
