@@ -12,9 +12,3 @@ I'm on a quest to explore the fascinating world of AI & Data Science, driven by 
 - 📫 Want to chat, collaborate, or connect? Feel free to reach out via [email](mailto:ptms2525@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/mohitsharmas78/).
 
 Let's connect and embark on this exciting journey together! 😄✨
-
-[![Animation 1](https://assets3.lottiefiles.com/private_files/lf30_tpnk1npu.json)](https://lottiefiles.com/tpnk1npu)
-
-[![Animation 2](https://assets2.lottiefiles.com/packages/lf20_qj4ex8wf.json)](https://lottiefiles.com/qj4ex8wf)
-
-[![Animation 3](https://assets7.lottiefiles.com/packages/lf20_jgrnupzw.json)](https://lottiefiles.com/jgrnupzw)
