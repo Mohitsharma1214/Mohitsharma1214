@@ -16,3 +16,5 @@ Let's connect and embark on this exciting journey together! 😄✨
 [![Animation](https://assets3.lottiefiles.com/private_files/lf30_tpnk1npu.json)](https://lottiefiles.com/tpnk1npu)
 
 [![Animation](https://assets2.lottiefiles.com/packages/lf20_qj4ex8wf.json)](https://lottiefiles.com/qj4ex8wf)
+
+[![Animation](https://lottie.host/e2e7e8e7-68d7-4a6a-90f7-9bca4e47a61a/oco4LCOorq.json)](https://lottie.host/e2e7e8e7-68d7-4a6a-90f7-9bca4e47a61a/oco4LCOorq.json)
