@@ -25,7 +25,7 @@ I am a passionate and dedicated developer with a strong focus on Artificial Inte
   - Integrated DeepSORT tracker for object tracking.
   - Trained using data from Roboflow, adjusted class names, and paths.
   - Aimed to handle occlusion, out-of-vision players, and players crossing paths.
-  - ![YOLOv8 GIF](https://media.giphy.com/media/xT9IgmR6cW74zZZkGg/giphy.gif)
+  - ![AI Animation](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)
   - [View Project](https://github.com/mohitsharma1214/squash-player-detection)
 
 ### NLP
@@ -34,7 +34,7 @@ I am a passionate and dedicated developer with a strong focus on Artificial Inte
   - Created an assistant to provide details about ingredients using OpenAI's API.
   - Designed to handle user input, retrieve ingredient details, and identify functions and effects.
   - Implemented using Flask for API responses on the website.
-  - ![NLP GIF](https://media.giphy.com/media/3oFzmzhA68vjEUTX9S/giphy.gif)
+  - ![NLP Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
   - [View Project](https://github.com/mohitsharma1214/ingredient-info-assistant)
 
 ### Web Development
@@ -42,7 +42,7 @@ I am a passionate and dedicated developer with a strong focus on Artificial Inte
 - **Portfolio Website**
   - Built a personal portfolio using React and React Router.
   - Showcases projects, resume, and contact information.
-  - ![React GIF](https://media.giphy.com/media/l3q2K5cP00AIxlu5a/giphy.gif)
+  - ![Web Dev Animation](https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif)
   - [Visit My Portfolio](https://mohitsharmadev.vercel.app/)
 
 ## Hackathons & Competitions
@@ -50,7 +50,7 @@ I am a passionate and dedicated developer with a strong focus on Artificial Inte
 - **Unstoppable Hackathon by Parul University**
   - Topic: Drug Discovery and Repurposing.
   - Aim: Create an AI platform to identify new uses for existing drugs and expedite the drug discovery process.
-  - ![Hackathon GIF](https://media.giphy.com/media/1gkKOuh4rXWFDJKM7v/giphy.gif)
+  - ![Hackathon Animation](https://media.giphy.com/media/l3q2WlN6GxvukLsZK/giphy.gif)
 
 ## Contact Me
 
