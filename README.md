@@ -60,5 +60,6 @@ Feel free to connect with me for collaborations, project discussions, or just a 
 </p>
 
 ---
-
+<p align="center">
 Thanks for stopping by! 😊
+</p>
