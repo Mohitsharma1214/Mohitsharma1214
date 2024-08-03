@@ -1,6 +1,8 @@
 # Hi there, I'm Mohit Sharma 👋
 
-![Hello GIF](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello GIF">
+</p>
 
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white)](https://github.com/mohitsharma1214)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohitsharmas78/)
@@ -53,7 +55,9 @@ I am a passionate and dedicated developer with a strong focus on Artificial Inte
 
 Feel free to connect with me for collaborations, project discussions, or just a chat about technology and space!
 
-![Thanks GIF](https://media.giphy.com/media/26FOVyJ9qg4AMJAsw/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding GIF">
+</p>
 
 ---
 
