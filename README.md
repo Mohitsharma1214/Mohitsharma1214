@@ -3,11 +3,11 @@
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello GIF">
 </p>
-<p align="center">
+
 [![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white)](https://github.com/mohitsharma1214)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohitsharmas78/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/mohitsharmas_)
-</p>
+
 I am a passionate and dedicated developer with a strong focus on Artificial Intelligence and Data Science. I love exploring new technologies and applying them to solve real-world problems.
 
 ## About Me
