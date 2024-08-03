@@ -28,29 +28,22 @@ I am a passionate and dedicated developer with a strong focus on Artificial Inte
   - ![AI Animation](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)
   - [View Project](https://github.com/mohitsharma1214/squash-player-detection)
 
-### NLP
+- **Car Price Prediction**
+  - Developed a machine learning model to predict car prices based on various features such as make, model, mileage, and year.
+  - Utilized regression techniques to achieve accurate price predictions.
+  - [View Project](https://github.com/mohitsharma1214/car-price-prediction)
 
-- **Ingredient Information Assistant**
-  - Created an assistant to provide details about ingredients using OpenAI's API.
-  - Designed to handle user input, retrieve ingredient details, and identify functions and effects.
-  - Implemented using Flask for API responses on the website.
-  - ![NLP Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
-  - [View Project](https://github.com/mohitsharma1214/ingredient-info-assistant)
+- **Driver Drowsiness Detection System**
+  - Created a system using computer vision techniques to detect driver drowsiness and alert the driver.
+  - Implemented using OpenCV and deep learning models to analyze facial expressions and eye movements.
+  - [View Project](https://github.com/mohitsharma1214/driver-drowsiness-detection)
 
 ### Web Development
 
 - **Portfolio Website**
   - Built a personal portfolio using React and React Router.
   - Showcases projects, resume, and contact information.
-  - ![Web Dev Animation](https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif)
   - [Visit My Portfolio](https://mohitsharmadev.vercel.app/)
-
-## Hackathons & Competitions
-
-- **Unstoppable Hackathon by Parul University**
-  - Topic: Drug Discovery and Repurposing.
-  - Aim: Create an AI platform to identify new uses for existing drugs and expedite the drug discovery process.
-  - ![Hackathon Animation](https://media.giphy.com/media/l3q2WlN6GxvukLsZK/giphy.gif)
 
 ## Contact Me
 
