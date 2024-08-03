@@ -1,6 +1,4 @@
-
 # Hi there, I'm Mohit Sharma 👋
-
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hello GIF">
@@ -11,6 +9,11 @@
   <a href="https://www.linkedin.com/in/mohitsharmas78/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white"></a>
   <a href="https://instagram.com/mohitsharmas_"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohitsharma1214&color=blue" alt="Profile Views">
+</p>
+
 I am a passionate and dedicated developer with a strong focus on Artificial Intelligence and Data Science. I love exploring new technologies and applying them to solve real-world problems.
 
 ## About Me
@@ -61,7 +64,27 @@ Feel free to connect with me for collaborations, project discussions, or just a 
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" alt="Coding GIF">
 </p>
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitsharma1214&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsharma1214&layout=compact&theme=radical" alt="Top Languages">
+</p>
+
+## Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohitsharma1214&theme=radical" alt="GitHub Trophies">
+</p>
+
+## Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+</p>
+
 ---
+
 <p align="center">
 Thanks for stopping by! 😊
 </p>
