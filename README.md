@@ -27,8 +27,7 @@ I am a passionate and dedicated developer with a strong focus on Artificial Inte
   - Integrated DeepSORT tracker for object tracking.
   - Trained using data from Roboflow, adjusted class names, and paths.
   - Aimed to handle occlusion, out-of-vision players, and players crossing paths.
-  - ![AI Animation](https://media.giphy.com/media/26tOZ42Mg6pbTUPHW/giphy.gif)
-  - [View Project](https://github.com/mohitsharma1214/squash-player-detection)
+  - [View Project](https://drive.google.com/drive/folders/1OnXBhIHmCQD9tugbaRfZTP93BRnuJZbB?usp=drive_link)
 
 - **Car Price Prediction**
   - Developed a machine learning model to predict car prices based on various features such as make, model, mileage, and year.
