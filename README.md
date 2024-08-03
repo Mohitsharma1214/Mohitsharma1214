@@ -33,12 +33,12 @@ I am a passionate and dedicated developer with a strong focus on Artificial Inte
 - **Car Price Prediction**
   - Developed a machine learning model to predict car prices based on various features such as make, model, mileage, and year.
   - Utilized regression techniques to achieve accurate price predictions.
-  - [View Project](https://github.com/mohitsharma1214/car-price-prediction)
+  - [View Project](https://github.com/Mohitsharma1214/Car-Price-Prediction-Model)
 
 - **Driver Drowsiness Detection System**
   - Created a system using computer vision techniques to detect driver drowsiness and alert the driver.
   - Implemented using OpenCV and deep learning models to analyze facial expressions and eye movements.
-  - [View Project](https://github.com/mohitsharma1214/driver-drowsiness-detection)
+  - [View Project](https://github.com/Mohitsharma1214/Driver-Drowsiness-Detection-System)
 
 ### Web Development
 
