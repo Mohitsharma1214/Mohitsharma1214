@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohitsharma1214&color=blue" alt="Profile Views">
+  <img src="https://profile-counter.glitch.me/mohitsharma1214/count.svg" alt="Profile Views">
 </p>
 
 I am a passionate and dedicated developer with a strong focus on Artificial Intelligence and Data Science. I love exploring new technologies and applying them to solve real-world problems.
