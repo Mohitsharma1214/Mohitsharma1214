@@ -20,7 +20,7 @@
 ## 👨‍💻 About Me  
 
 - 🎓 **BTech in AI & DS (Artificial Intelligence & Data Science)**  
-- 💼 **Junior Developer Intern at Skyline Meridian**  
+- 💼 **Data Scientist at Hairscope**  
 - 💡 Exploring **AI, ML, Computer Vision, NLP & Web Development**  
 - 🌌 Interests: **Space ✨ | Poetry 📝 (Shayari)**  
 - 🌐 Portfolio: [mohitsharmadev.vercel.app](https://mohitsharmadev.vercel.app)  
