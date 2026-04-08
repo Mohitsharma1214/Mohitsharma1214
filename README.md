@@ -10,17 +10,17 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mohitsharma1214"><img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"></a>
-  <a href="https://www.linkedin.com/in/mohitsharmas-"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117"></a>
-  <a href="mailto:mohitxsharma09@gmail.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f85149&labelColor=0d1117"></a>
-  <a href="https://mohitsharmadev.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=3fb950&labelColor=0d1117"></a>
+  <a href="https://github.com/mohitsharma1214"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/mohitsharmas-"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff"></a>
+  <a href="mailto:mohitxsharma09@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f85149"></a>
+  <a href="https://mohitsharmadev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=3fb950"></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LLM%20%2F%20RLHF-%230d419d?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Computer%20Vision-%231a7f37?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/MLOps-%239e6a03?style=flat-square&logoColor=white">
-  <img src="https://img.shields.io/badge/Deep%20Learning-%238957e5?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/LLM%20%2F%20RLHF-0d419d?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Computer%20Vision-1a7f37?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/MLOps-9e6a03?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Deep%20Learning-8957e5?style=flat-square&logoColor=white">
 </p>
 
 ---
@@ -40,6 +40,9 @@ mohit = {
 }
 ```
 
+- 🌐 **Portfolio:** [mohitsharmadev.vercel.app](https://mohitsharmadev.vercel.app)
+- 📍 Bhopal, Madhya Pradesh, India
+
 ---
 
 ## 🛠️ Tech Stack
@@ -52,6 +55,10 @@ mohit = {
 | **Computer Vision** | OpenCV · Mask R-CNN · YOLOv8 · Instance Segmentation |
 | **MLOps & Infra** | FastAPI · Docker · CI/CD |
 | **Optimization** | CUDA · ONNX · TensorRT |
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,fastapi,docker,git,github&perline=9">
+</p>
 
 ---
 
@@ -100,12 +107,12 @@ mohit = {
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsharma1214&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff" width="500" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=mohitsharma1214&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="500">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitsharma1214&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" height="165" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsharma1214&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="165" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitsharma1214&show_icons=true&theme=github_dark&hide_border=true" height="165" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsharma1214&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Top Languages">
 </p>
 
 ---
@@ -113,7 +120,7 @@ mohit = {
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohitsharma1214&theme=darkhub&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohitsharma1214&theme=onedark&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies">
 </p>
 
 ---
