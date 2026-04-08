@@ -1,86 +1,111 @@
-# Hi there, I'm Mohit Sharma 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="70">
+</div>
+
+<h1 align="center">Hi, I'm Mohit Sharma 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80">
+  <b>AI Engineer · LLMs & RLHF · Computer Vision · NLP · MLOps</b><br>
+  <sub>Building production-grade AI systems that solve real-world problems.</sub>
 </p>
 
-<h2 align="center">
-  🤖 AI Engineer | LLMs & RLHF | Computer Vision & NLP | Scalable AI Systems
-</h2>
+<p align="center">
+  <a href="https://github.com/mohitsharma1214"><img src="https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"></a>
+  <a href="https://www.linkedin.com/in/mohitsharmas-"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117"></a>
+  <a href="mailto:mohitxsharma09@gmail.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=f85149&labelColor=0d1117"></a>
+  <a href="https://mohitsharmadev.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=3fb950&labelColor=0d1117"></a>
+</p>
 
 <p align="center">
-  <a href="https://github.com/mohitsharma1214"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/mohitsharmas-"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/mohitsharmas_"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"></a>
-  <a href="mailto:mohitxsharma09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/LLM%20%2F%20RLHF-%230d419d?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Computer%20Vision-%231a7f37?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/MLOps-%239e6a03?style=flat-square&logoColor=white">
+  <img src="https://img.shields.io/badge/Deep%20Learning-%238957e5?style=flat-square&logoColor=white">
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **M.Tech (CS) @ RGPV** | B.Tech in AI & Data Science (CGPA: 7.6)
-- 💼 **Data Scientist @ Hairscope** + **AI Trainer / LLM Specialist @ Invisible Technologies**
-- 🧠 Specializing in **LLMs, RLHF workflows, Computer Vision & NLP**
-- ⚙️ Building scalable AI systems with **PyTorch, FastAPI & Docker**
-- 🌌 Interests: **Space ✨ | Poetry 📝 (Shayari)**
-- 🌐 Portfolio: [mohitsharmadev.vercel.app](https://mohitsharmadev.vercel.app)
+```python
+mohit = {
+    "roles": [
+        "Data Scientist @ Hairscope",              # 5K+ images/day · <120ms latency
+        "LLM Specialist @ Invisible Technologies"  # RLHF · Alignment · Prompt Engineering
+    ],
+    "education": "M.Tech CS @ RGPV (2025–27) | B.Tech AI & DS · CGPA 7.6",
+    "copyright":  "SW-19841/2024 — Govt. of India",
+    "interests":  ["Space ✨", "Shayari 📝"],
+    "portfolio":  "mohitsharmadev.vercel.app"
+}
+```
 
 ---
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,opencv,fastapi,docker,git,github,mysql,figma&perline=6" />
-</p>
-
-**ML / AI:** PyTorch · TensorFlow · Scikit-learn · RLHF · LLM Pipelines · Prompt Engineering  
-**Computer Vision:** OpenCV · Mask R-CNN · Object Detection · Instance Segmentation  
-**MLOps & Infra:** FastAPI · Docker · CI/CD · CUDA · ONNX · TensorRT  
+| Domain | Tools |
+|--------|-------|
+| **Languages** | Python · C++ |
+| **ML / DL** | PyTorch · TensorFlow · Scikit-learn |
+| **GenAI** | RLHF · LLM Pipelines · Prompt Engineering |
+| **Computer Vision** | OpenCV · Mask R-CNN · YOLOv8 · Instance Segmentation |
+| **MLOps & Infra** | FastAPI · Docker · CI/CD |
+| **Optimization** | CUDA · ONNX · TensorRT |
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 AI & Computer Vision
+### 😴 Driver Drowsiness Detection System
+> Real-time fatigue detection deployed on **Raspberry Pi** — <150ms latency with continuous alert system.
 
-- 😴 **Driver Drowsiness Detection System**  
-  Real-time CNN pipeline (Python + OpenCV + PyTorch) deployed on Raspberry Pi with <150ms latency  
-  🏛️ Registered copyright with Govt. of India — SW-19841/2024  
-  ➡️ [Repo](https://github.com/Mohitsharma1214/Driver-Drowsiness-Detection-System)
+`PyTorch` `OpenCV` `CNN` `Raspberry Pi` `Edge AI`
 
-- 🧴 **AI Dermatology & Hair Analysis Platform**  
-  End-to-end deep learning diagnostic system with foundation model embeddings — 95% accuracy  
-  Built with FastAPI backend + Streamlit UI, optimized for production deployment  
+🏛️ **Copyright registered — SW-19841/2024 · Govt. of India**  
+➡️ [View Repo](https://github.com/Mohitsharma1214/Driver-Drowsiness-Detection-System)
 
-- 🧵 **Hair Strand Detection (Instance Segmentation)**  
-  Mask R-CNN (ResNet) achieving 0.84 mAP & 0.78 IoU on custom dataset  
-  Optimized with ONNX/TensorRT for efficient production inference  
+---
 
-- 🏸 **Squash Player Detection & Tracking**  
-  YOLOv8 + DeepSORT | Handles occlusion & crossing paths  
-  ➡️ [View Project](https://drive.google.com/drive/folders/1OnXBhIHmCQD9tugbaRfZTP93BRnuJZbB?usp=drive_link)
+### 🧴 AI Dermatology & Hair Analysis Platform
+> End-to-end diagnostic system using deep learning + foundation model embeddings. **95% accuracy**, FastAPI backend, Streamlit UI — fully production-ready.
 
-- 🚗 **Car Price Prediction**  
-  ML Regression model for accurate price predictions  
-  ➡️ [Repo](https://github.com/Mohitsharma1214/Car-Price-Prediction-Model)
+`FastAPI` `Foundation Models` `Streamlit` `PyTorch` `95% accuracy`
 
-### 🔹 Web Development
+---
 
-- 🌐 **Portfolio Website** — Built with React + Router  
-  ➡️ [Visit](https://mohitsharmadev.vercel.app/)
+### 🧵 Hair Strand Instance Segmentation
+> Precise strand-level segmentation using **Mask R-CNN (ResNet)** on a custom dataset. Optimized with ONNX/TensorRT for production inference.
+
+`Mask R-CNN` `ResNet` `0.84 mAP` `0.78 IoU` `ONNX` `TensorRT`
+
+---
+
+### 🏸 Squash Player Detection & Tracking
+> Multi-player tracking with occlusion handling — maintains identity even when players cross paths.
+
+`YOLOv8` `DeepSORT` `Occlusion Handling`  
+➡️ [View Project](https://drive.google.com/drive/folders/1OnXBhIHmCQD9tugbaRfZTP93BRnuJZbB?usp=drive_link)
+
+---
+
+### 🚗 Car Price Prediction
+> ML regression model with feature engineering pipeline for accurate used-car price predictions.
+
+`Scikit-learn` `Regression` `Feature Engineering`  
+➡️ [View Repo](https://github.com/Mohitsharma1214/Car-Price-Prediction-Model)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsharma1214&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitsharma1214&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff" width="500" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohitsharma1214&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsharma1214&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohitsharma1214&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff" height="165" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsharma1214&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="165" alt="Top Languages">
 </p>
 
 ---
@@ -88,19 +113,19 @@
 ## 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohitsharma1214&theme=radical&margin-w=10&margin-h=10" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohitsharma1214&theme=darkhub&no-frame=true&margin-w=8&row=1" alt="GitHub Trophies">
 </p>
 
 ---
 
-## 🎯 Random Dev Quote
+## 🎯 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote">
 </p>
 
 ---
 
 <p align="center">
-  ✨ <em>Thanks for visiting! Let's connect and build something amazing together 🚀</em> ✨
+  <sub>crafted with ♥ by mohit · bhopal, india · open to collabs — let's build something remarkable 🚀</sub>
 </p>
